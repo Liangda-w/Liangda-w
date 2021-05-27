@@ -1,4 +1,12 @@
-### Hi there 👋
+#### Hi there 👋 This is Liangda, nice to meet you!
+
+- 🌱 I’m currently studying Bachelor Business Informatics at the University of Mannheim
+- 🔭 I’m currently contributing to [Apache ShardingSphere](https://github.com/apache/shardingsphere) with my [Google Summer of Code (GSoC) 2021 project](https://summerofcode.withgoogle.com/projects/#5167124928004096)
+- 🌻 I'm currently working part-time at Amazon Web Services (AWS) as a software development engineer working student
+- 📫 How to connect with me: https://www.linkedin.com/in/liangda-wang/
+- 😄 Pronouns: she/her
+
+[![Liangda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liangda-w&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Liangda-w/Liangda-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
