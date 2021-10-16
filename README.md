@@ -1,8 +1,8 @@
 #### Hi there 👋 This is Liangda, nice to meet you!
 
-- 🌱 I’m currently studying Bachelor Business Informatics at the University of Mannheim
-- 🔭 I’m currently participating in [Google Summer of Code (GSoC) 2021](https://summerofcode.withgoogle.com/projects/#5167124928004096) contributing to [Apache ShardingSphere](https://github.com/apache/shardingsphere) 
+- 🌱 I’m currently studying Master Information Systems at the Technical University of Munich (TUM) and leading the [Google Developer Student Club at Munich](https://gdsc.community.dev/technical-university-of-munich/)
 - 🌻 I'm currently working part-time at Amazon Web Services (AWS) as a Software Development Engineer Working Student
+- 🔭 I participated in [Google Summer of Code (GSoC) 2021](https://summerofcode.withgoogle.com/projects/#5167124928004096) contributing to [Apache ShardingSphere](https://github.com/apache/shardingsphere) 
 - 📫 How to reach me: liangda_wang@outlook.de or https://www.linkedin.com/in/liangda-wang/
 - 😄 Pronouns: she/her
 
